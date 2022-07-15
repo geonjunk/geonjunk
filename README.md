@@ -1,6 +1,6 @@
-<p align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geonjunk's%20GitHub%20Profile)
-</p>
+
 <br>
 
 <p align="center">
@@ -30,6 +30,6 @@ My name is geonjunKo<br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </p><br>
 
-<p align="center">
+
 ![geonjunk's github stats](https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=true)
-</p>
+
