@@ -30,6 +30,7 @@ My name is geonjunKo<br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </p><br>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=tru)"></p>
 
-![geonjunk's github stats](https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=true)
+
 
