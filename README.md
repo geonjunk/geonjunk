@@ -1,7 +1,6 @@
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geonjunk's%20GitHub%20Profile">
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Geonjunk's%20GitHub%20Profile)
-
-<br>
 
 <p align="center">
     <Strong>☁️How to reach me...☁️</Strong><br><br>
@@ -30,7 +29,7 @@ My name is geonjunKo<br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </p><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=tru)"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=true"></p>
 
 
 
