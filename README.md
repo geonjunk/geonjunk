@@ -13,7 +13,7 @@
 
 <br>
 
-<p align="center">
+<p>
 Hi there!<br>
 My name is geonjunKo<br> 
 </p>
