@@ -5,7 +5,7 @@
 <p align="center">
     <Strong>☁️How to reach me...☁️</Strong><br><br>
     <a href="https://tourmaline-yogurt-acc.notion.site/66f527cc332a4608a7d0446f2890068e?v=8e5a2c824ec944208eceaca99ccb22de" target="_blank"><img src="https://img.shields.io/badge/DevStudyNotion-535D6C?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <a href="https://tourmaline-yogurt-acc.notion.site/Ko-GeonJun-ced8eacc8cde4a3a8a36148b0249c907" target="_blank"><img src="https://img.shields.io/badge/portfolio-535D6C?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href="https://tourmaline-yogurt-acc.notion.site/Ko-GeonJun-7db46ba3634e429180041bc9f17a35d9" target="_blank"><img src="https://img.shields.io/badge/portfolio-535D6C?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>koeunjun7@gmail.com<br>
