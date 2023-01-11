@@ -30,7 +30,11 @@ My name is geonjunKo<br>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </p><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=true"></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=geonjunk&show_icons=true">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=koeunjun98">
+</p>
+
 
 
 
