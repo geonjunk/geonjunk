@@ -22,10 +22,8 @@ My name is geonjunKo<br>
 
 <p align="center">
     <Strong>I’m currently learning 📖 </Strong><br><br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </p><br>
